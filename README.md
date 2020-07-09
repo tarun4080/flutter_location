@@ -1,8 +1,8 @@
 # flutter_location
 
 The Power Of Dart Packages
-## location package used for get the location.
-## geocoder package used for geofencing to get the address by Lat, Long.
+# location package used for get the location.
+# geocoder package used for geofencing to get the address by Lat, Long.
 
 This snapshot shows how the location is get and change into the address.
 
