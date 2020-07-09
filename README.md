@@ -1,4 +1,4 @@
-# flutte_location
+# flutter_location
 
 The Power Of Dart Packages
 ## location package used for get the location.
